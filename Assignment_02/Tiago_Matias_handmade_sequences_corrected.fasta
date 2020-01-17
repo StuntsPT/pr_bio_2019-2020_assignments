@@ -1,0 +1,23 @@
+>Sequencia de 21 bases:
+GTWCTYCAACASRGATATGCC
+
+>Tres sequencias sem ambiguidades: 
+GTTCTCCAACAGAGATATGCC
+GTTCTTCAACAGCGATATGCC
+GTACTCCAACAGAGATATGCC
+
+
+>Sequencia escolhida:
+GTTCTTCAACAGCGATATGCC
+
+>Sequencia sem abingiuidade invertida:
+CCGTATAGCGACAACTTCTTG
+
+>Sequencia complementar:
+CAAGAAGTTGTCGCTATACGG
+
+>Sequencia inversa e complementar:
+GGCATATCGCTGTTGAAGAAG
+
+>Aminoacido produzido:
+VLQQRYA
