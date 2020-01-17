@@ -1,56 +1,16 @@
 
-
->Sequencia Original
-
-
-
+>Sequencia_Original
 CAGTTTAGCCGGTATTCWYSS
-
-
-
 >Reescrever
-
-
-
-CAGTTTAGCCGGTATTCACGG (sequencia 1)  
-
-
-
-CAGTTTAGCCGGTATTCTCCC (sequencia 2)
-
-
-
-CAGTTTAGCCGGTATTCATGC (sequencia 3)
-
- 
-
->Reverso (sequencia 1)
-
-
-
+CAGTTTAGCCGGTATTCACGG_sequencia_1  
+CAGTTTAGCCGGTATTCTCCC_sequencia_2
+CAGTTTAGCCGGTATTCATGC_sequencia_3
+>Reverso_sequencia_1
 GGCACTTATGGCCGATTTGAC
-
-
-
->Complementar (sequencia 1)
-
-
-
+>Complementar_sequencia_1
 GTCAAATCGGCCATAAGTGCC
-
-
-
->Reverso complementar  (sequencia 1)
-
-
-
+>Reverso complementar_sequencia_1
 CCGTGAATACCGGCTAAACTG
-
-
-
->Amino acid chain (sequencia 1)
-
-
-
+>Amino_acid_chain_sequencia_1
 QFSPYSR
 
