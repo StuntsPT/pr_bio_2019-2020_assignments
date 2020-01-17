@@ -1,0 +1,34 @@
+>Sequencia 21 pares de base 4 ambiguidades
+
+AGTCTATSARAASATRCACGC
+
+>Sequencia nao_ambigua_01
+
+AGTCTATGAAAAGATACACGC   
+
+>Sequencia nao_ambigua_02 
+
+AGTCTATCAGAACATGCACGC
+
+>Sequencia nao_ambigua_03
+
+AGTCTATCAAAACATACACGC
+
+>DNA inverso nao_ambigua_01
+
+CGCACATAGAAAAGTATCTGA
+
+>DNA complementar nao_ambigua_01
+
+TCAGATACTTTTCTATGTGCG
+
+>DNA complementar inverso nao_ambigua_01
+
+GCGTGTATCTTTTCATAGACT
+
+>Cadeia aminoacidos produzida nao_ambigua_01
+
+UCAGAUACUUUUCUAUGUGCG
+
+SDTFLCA
+
