@@ -1,0 +1,16 @@
+﻿>Sequence that contains 4 ambiguities
+ATGCWCTTKGYAACGTGSTGA
+>Unambiguous sequence1
+ATGCACTTGGCAACGTGGTGA
+>Unambiguous sequence2
+ATGCTCTTTGTAACGTGCTGA
+>Unambiguous sequence3
+ATGCACTTTGCAACGTGCTGA
+>(2nd sequence)-reverse 
+AGTCGTGCAATGTTTCTCGTA
+>complement
+TACGAGAAACATTGCACGACT
+>reverse-complement
+TCAGCACGTTACAAAGAGCAT
+>The amino-acid chain it produces
+MLPVTC
