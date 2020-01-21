@@ -1,0 +1,11 @@
+>21 base pair sequence containing 4 ambiguities:
+	ATGBGHATAGCNCGATVGTAA
+>3 possible unambiguous sequences:
+	1.ATGTGTATAGCTCGATGGTAA
+	2.ATGGGCATAGCACGATAGTAA
+	3.ATGCGAATAGCGCGATCGTAA
+>Sequence 1:
+	Reverse.AATGGTAGCTCGATATGTGTA
+	Complement.TACACATATCGAGCTACCATT
+	Reverse-complement.TTACCATCGAGCTATACACAT
+	Amino-acid chain produced.MCIARW
