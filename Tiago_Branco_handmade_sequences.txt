@@ -1,0 +1,16 @@
+>Base_Sequence
+ATGACMTAGCRKTAGCCKTGA
+>Unambiguous_sequence_1
+ATGACATAGCAGTAGCCTTGA
+>Unambiguous_sequence_2
+ATGACATAGCAGTAGCCGTGA
+>Unambiguous_sequence_3
+ATGACCAAGCAGTACCCGTGA 
+>Unambiguous_sequence_3_reverse
+AGTGCCCATGACGAACCAGTA
+>Unambiguous_sequence_3_complement
+TACTGGTTCGTCATGGGCACT
+>Unambiguous_sequence_3_reverse-complement
+TCACGGGTACTGCTTGGTCAT
+>Amino-acid_chain
+MTKQYP
