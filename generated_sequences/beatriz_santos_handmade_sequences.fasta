@@ -1,0 +1,17 @@
+>Ambiguous sequence
+ARC TCA WGC TGS TAT CYA CTG
+>Unambiguous_01
+AAC TCA TGC TGC TAT CCA CTG
+>Unambiguous_02
+AGC TCA AGC TGG TAT CTA CTG
+>Unambiguous_03
+AAC TCA AGC TGC TAT CTA CTG
+>The reverse of Unambiguous_02
+GTC ATC TAT GGT CGA ACT CGA
+>The complement of Unambiguous_02
+AGC UCA AGC UGG UAU CUA CUG
+>The reverse-complement of Unambiguous_02
+GUC AUC UAU GGU CGA ACU CGA
+>The translation of Unambiguous_02
+SSSWYLL
+
