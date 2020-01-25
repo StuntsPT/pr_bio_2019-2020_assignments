@@ -1,0 +1,31 @@
+>Primeira sequencia
+AVTGABAGTACSTTACNATCA
+
+>Outra sequencia
+AGTGACAGTACGTTACCATCA
+
+>Outra sequencia
+AATGATAGTACCTTACTATCA
+
+>Outra sequencia
+AGTGAGAGTACGTTACAATCA
+
+>Reverso da ultima sequencia
+ACTAACATTGCATGAGAGTGA
+
+>Complemento da ultima sequencia
+UCACUCUCAUGCAAUGUUAGU
+
+>Reverso do complemento da ultima sequencia
+UGAUUGUAACGUACUCUCACU
+
+>Cadeia de aminoacidos que produz a ultima sequencia
+SESTLQS
+
+
+
+
+
+
+
+
