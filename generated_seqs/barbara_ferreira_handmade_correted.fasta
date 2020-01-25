@@ -1,0 +1,16 @@
+>Sequence_identifier
+ATGAWATGCBTGACYGACTSA
+>Another_sequence_identifier-1 
+ATGATATGCGTGACTGACTGA
+>Another_sequence_identifier-2
+ATGAAATGCTTGACCGACTCA
+>Another_sequence_identifier-3
+ATGAAATGCCTGACTGACTGA
+>Reverse
+AGTCAGTCAGTGCGTATAGTA
+>Complement
+TACTATACGCACTGACTGACT
+>Reverse-Complement
+TCAGTCAGTCACGCATATCAT
+>Amino-acid_Produc
+MICVTD
