@@ -1,0 +1,31 @@
+Homework:
+
+1. Write up a 21 base pair sequence with 4 ambiguities;
+2. Re-write 3 of the possible unambiguous sequences;
+3. Pick one of these sequences asn write:
+ a) Its reverse;
+ b) Its complement;
+ c) Its reverse-complement;
+ d) The amino-acid chain it produces.
+
+
+
+1. ATGTTSGYACAWACTRTATAG
+
+
+2. ATGTTGGTACAAACTATATAG
+
+   ATGTTGGTACAAACTATATAG
+
+   ATGTTCGCACAAACTGTATAG
+
+
+3. ATGTTCGCACAAACTGTATAG
+
+ a) GATATGTCAAACACGCTTGTA
+
+ b) TACAAGCGTGTTTGACATATC
+
+ c) CTATACAGTTTGTGCGAACAT
+
+ d) LYSLCEH
